@@ -29,14 +29,14 @@ export default function Page() {
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
           <Image
             src="/hero-desktop.png"
-            width={560}
+            width={360}
             height={620}
             className={`hidden md:block`}
             alt="Screenshots of the dashboard project showing desktop and mobile versions"
           />
           <Image
             src="/hero-mobile.png"
-            width={560}
+            width={360}
             height={620}
             className={`hidden md:block`}
             alt="Screenshots of the dashboard project showing desktop and mobile versions"
